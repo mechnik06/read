@@ -1,0 +1,498 @@
+*{
+    margin: 0px;
+}
+.kaloni{
+    width: 100%;
+    height: 600px;
+    background: url("nekacha.tj/2.png");
+    background-size: cover;
+    
+}
+.aa{
+    font-family: Josefin Sans;
+font-size: 48px;
+font-weight: 700;
+color: #fff;
+    letter-spacing: 4.800000190734863px;
+text-align: center;
+padding-top: 210px;
+
+}
+.bb{
+    font-family: Josefin Sans;
+font-size: 22px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 6.820000171661377px;
+text-align: center;
+color: #fff ;
+}
+.cc{
+    font-family: Josefin Sans;
+    font-size: 11px;
+height: 43px;
+width: 400px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 2.799999952316284px;
+text-align: center;
+position: relative;
+left: 400px;
+top: 20px;
+
+}
+.dd{
+    width: 100px;
+height: 48px;
+border: 2px 0px 0px 0px;
+margin-left: 805px;
+position: relative;
+bottom: 28.5px;
+border: 2px solid white;
+background: rgba(84, 116, 253, 1);
+
+}
+.dd img{
+    width: 18px;
+    height: 15px;
+    padding-left: 5px;
+}
+.dd:active{
+    background-color: aqua;
+}
+.ee{
+    font-family: Josefin Sans;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 2.799999952316284px;
+text-align: center;
+position: relative;
+top: 70px;
+color: #fff;
+}
+.ff{
+  width: 10px;
+position: relative;
+top: 65px;
+left: 630px;
+}
+.dyumsh{
+    width: 100%;
+    height: 80px;
+    background: rgba(84, 116, 253, 1);
+    display: flex;
+    justify-content: space-between;
+
+}
+.ii{
+    font-family: Josefin Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 2.4000000953674316px;
+text-align: left;
+color: #fff;
+position: relative;
+top: 30px;
+left: 230px;
+}
+.kk{
+    font-family: Aleo;
+font-size: 14px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+position: relative;
+top: 30px;
+right: 50px;
+color: #fff;
+}
+.jj{
+    font-family: Aleo;
+font-size: 14px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+position: relative;
+top: 30px;
+left: 125px;
+color: #fff;
+}
+.hh{
+    font-family: Aleo;
+font-size: 14px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+position: relative;
+top: 30px;
+left: 305px;
+color: #fff;
+}
+.gg{
+    font-family: Aleo;
+font-size: 14px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+position: relative;
+top: 30px;
+left: 485px;
+color: #fff;
+}
+.seymkor{
+    width: 100%;
+    height: 500px;
+    background-image: url(/nekacha.tj/5.png);
+}
+.ll{
+    font-family: Aleo;
+font-size: 26px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+color: #fff;
+position: relative;
+top: 143px;
+left: 190px;
+}
+.mm{
+    font-family: Josefin Sans;
+font-size: 13px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 1.600000023841858px;
+color: #e4e0e0;
+position: relative;
+top: 170px;
+left: 190px;
+}
+.nn{
+    width: 200px;
+    height: 40px;
+    font-family: Aleo;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 1.2000000476837158px;
+text-align: center;
+position: relative;
+top: 70px;
+left: 190px;
+color: #fff;
+background: rgba(84, 116, 253, 1);
+}
+.oo{
+    width: 250px;
+height: 150px;
+position: relative;
+left: 510px;
+bottom: 90px;
+
+}
+.pp{
+    width: 250px;
+height: 150px;
+position: relative;
+left: 310px;
+top: 65px;
+}
+.chormsh{
+    width: 100%;
+    height: 220px;
+    background: rgba(51, 51, 51, 1);
+}
+.qq{
+    width: 397px;
+height: 40px;
+position: relative;
+left: 380px;
+top: 40px;
+}
+.rr{
+    width: 30px;
+height: 30px;
+position: relative;
+top: 74px;
+right: 50px;
+
+}
+.ss{
+    width: 40px;
+height: 40px;
+position: relative;
+top: 64px;
+background-color: rgba(51, 51, 51, 1); ;
+right: -130px;
+
+}
+.tt{
+    width: 30px;
+height: 30px;
+position: relative;
+top: 70px;
+left: 295px;
+}
+.uu{
+    font-family: Aleo;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 26px;
+position: relative;
+left: 300px;
+top: 90px;
+color: #fff;
+
+}
+.vv{
+    font-family: Aleo;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 26px;
+position: relative;
+left: 520px;
+top: 65px;
+color: #fff;
+
+}
+.ww{
+    font-family: Aleo;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 26px;
+position: relative;
+left: 720px;
+top: 40px;
+color: #fff;
+
+}
+.panjmkor{
+    width: 100%;
+    height: 500px;
+   background-image: url(/nekacha.tj/10.png);
+}
+.block1{
+    width: 350px;
+    height: 250px;
+    position: relative;
+    top: 160px;
+    left: 220px;
+    background: rgba(35, 35, 35, 1);
+
+}
+.xx{
+    font-family: Josefin Sans;
+font-size: 13px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 1.5px;
+position: relative;
+left: 25px;
+top: 25px;
+color: #fff;
+
+}
+.yy{
+    font-family: Josefin Sans;
+font-size: 19px;
+font-weight: 400;
+line-height: 26px;
+position: relative;
+top: 30px;
+left: 25px;
+color: #fff;
+}
+.zz{
+    font-family: Josefin Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 26px;
+position: relative;
+top: 35px;
+left: 25px;
+color: #bbbbbb;
+}
+.aaa{
+    font-family: Aleo;
+font-size: 13px;
+width: 150px;
+height: 30px;
+position: relative;
+top: 65px;
+left: 25px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 1.2000000476837158px;
+text-align: center;
+background: rgba(84, 116, 253, 1);
+color: white;
+
+}
+.shashmsh{
+    width: 100%;
+    height: 500px;
+   background-image: url(/nekacha.tj/11.png);
+}
+.block2{
+    width: 350px;
+    height: 250px;
+    position: relative;
+    top: 190px;
+    left: 850px;
+    background: rgba(35, 35, 35, 1);
+
+}
+.bbb{
+    font-family: Josefin Sans;
+font-size: 13px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 1.5px;
+position: relative;
+left: 25px;
+top: 25px;
+color: #fff;
+
+}
+.ddd{
+    font-family: Josefin Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 26px;
+position: relative;
+top: 35px;
+left: 25px;
+color: #bbbbbb;
+}
+.ccc{
+    font-family: Josefin Sans;
+font-size: 19px;
+font-weight: 400;
+line-height: 26px;
+position: relative;
+top: 30px;
+left: 25px;
+color: #fff;
+}
+.eee{
+    font-family: Aleo;
+font-size: 13px;
+width: 150px;
+height: 30px;
+position: relative;
+top: 65px;
+left: 25px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 1.2000000476837158px;
+text-align: center;
+background: rgba(84, 116, 253, 1);
+color: white;
+
+}
+.haftmsh{
+    width: 100%;
+    height: 500px;
+    background-image: url(/nekacha.tj/14.png);
+}
+.fff{
+    font-family: Aleo;
+font-size: 36px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+color: #fff;
+position: relative;
+top: 100px;
+}
+.block3{
+    width: 460px;
+    height: 200px;
+    background: rgba(51, 51, 51, 1);
+color: #fff;
+    position: relative;
+    left: 530px;
+    top: 150px;
+}
+.iii{
+    font-family: Josefin Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+position: relative;
+left: 40px;
+top: 30px;
+
+}
+
+.ggg{
+    font-family: FontAwesome;
+    font-size: 13px;
+    font-weight: 100;
+     position: relative;
+     top: 35px;
+     left: 40px;
+     text-align: justify;
+    
+
+}
+.block3 img{
+    width: 30px;
+    height: 20px;
+    position: absolute;
+    bottom: 125px;
+    left: 40px  ;
+}
+.kkk{
+    width: 250px;
+    height: 200px;
+    position: relative;
+    bottom: 50px;
+    left: 300px;
+}
+.hashtmsh{
+    width: 100%;
+    height: 200px;
+    background: rgba(35, 35, 35, 1);
+
+}
+.lll{
+    font-family: Josefin Sans;
+font-size: 19px;
+font-weight: 700;
+line-height: 26px;  
+text-align: center;
+padding-top: 75px;
+color: white;
+
+}
+.mmm{
+    font-family: Josefin Sans;
+font-size: 10px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 1.600000023841858px;
+text-align: center;
+color: white;
+
+}
+.nnn{
+    position: relative;
+    left: 580px;
+    width: 10px;
+    top: 10px;
+    
+}
+.ooo{
+    position: relative;
+    left: 610px;
+    top: 10px;
+    width: 10px;
+}
+.ppp{
+    position: relative;
+    left: 640px;
+    top: 10px;
+    width: 10px;
+}
